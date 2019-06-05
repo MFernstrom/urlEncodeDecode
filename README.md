@@ -1,7 +1,7 @@
 # URL Encode / Decode
-Simple unit for URL Encoding and Decoding in FreePascal
+Unit for URL Encoding and Decoding in FreePascal
 
-Inspired by the Rosetta Code challenges for encoding and decoding url's (Also used to verify functionality)
+Inspired by the Rosetta Code challenges for encoding and decoding url's
 
 ## Use
 Copy to your project, add `urlEncodeDecode` to your `uses` and you're good to go.
